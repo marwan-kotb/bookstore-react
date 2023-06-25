@@ -23,8 +23,6 @@ This will start the application and open it at http://localhost:3000.
 The home page (by default) is for a reader whereas the user can't make any action without login except view content of books
 
 1. To use the application as an author, you need to register a user account or login with an existing one. Click on the "Register" or "Login" button in the navigation bar and fill in the required details.
-
-Note: The application currently does not validate the user's input. Therefore, ensure that you enter valid and unique details.
  
 2. After logging in, you will be redirected to the home page where you can view all the books in the system. You can click on any book to view its details or click on the "Pages Of This Book" link to view the pages of the book.
 
