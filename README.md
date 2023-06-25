@@ -1,3 +1,5 @@
+# BookStore
+
 This is a React application that allows authors to view, create, update, and delete books and reader to just view the content of books. The application communicates with a backend API running on http://localhost:8000 using the Axios library. The API requires authentication with JWT tokens passed in the Authorization header.
 
 This project is a SPA (single-page application) with multiple routes. It includes login and register forms that allow users to create an account or sign in to an existing one. The routes are implemented using the React Router library.
