@@ -15,7 +15,7 @@ Also, This project follows responsive design principles by using responsive desi
  3. Start the application using the command:
  `npm start`
 
-This will start the application and open it in your [default browser] at http://localhost:3000.
+This will start the application and open it at http://localhost:3000.
 
 
 ## Usage
